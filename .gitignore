@@ -1,0 +1,7 @@
+# Filly Git Ignore Config
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# .env
